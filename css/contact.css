@@ -1,0 +1,275 @@
+/*general*/
+
+#header{
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+#contactDetails{
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+#title1{
+    color: #cc3300;
+}
+
+#title2{
+    color: #ed8048;
+}
+
+#contactDetails{
+    text-align: right;
+}
+
+#contactDetails .table{
+    display: inline;
+}
+
+#contactDetails td{
+    border-color: white !important;
+    padding-right: 0;
+}
+
+#contactDetails .table a{
+    color: black;
+}
+
+#contactForm h2{
+    text-align: center;
+}
+
+#submit{
+    background-color: #ed8048;
+    color: white;
+    text-align: center;
+}
+
+#submitButton{
+    text-align: center;
+}
+
+.checkb{
+    font-size: 14px;
+    color: grey;
+}
+
+.form-inline input[type=checkbox]{
+    margin-bottom: 5px;
+    margin-right: 5px;
+}
+
+
+
+/* Smartphones (portrait) ---------- */
+
+@media screen and (max-width: 320px){
+    
+    #logo{
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+        border-bottom: 2px solid #e6e6e6;
+    }
+    
+    #header img{
+        max-height: 120px;
+    }
+    
+    #header h2{
+        font-size: 20px;
+        text-align: center;
+        margin-top: 2em;
+    }
+    
+    #contactDetails{
+        margin-top: 1.5em;
+        line-height: 0.75;
+    }
+    
+    #contactDetails .table{
+        margin-top: 0.5em;
+        width: 30%;
+    }
+    
+    #contactDetails td.flag{
+    padding-top: 4px;
+    font-size: 14px !important;
+    }
+    
+    #contactForm h2{
+        font-size: 16px;
+        margin-top: 1.5em;
+    }  
+    
+    #contactForm button{
+        margin-bottom: 2em;
+    }
+    
+}
+
+/* Smartphones (portrait and landscape) ---------- */
+@media screen and (min-width: 321px){
+    
+   #logo{
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+        border-bottom: 2px solid #e6e6e6;
+    }
+    
+    #header img{
+        max-height: 100px;
+    }
+    
+    #header h2{
+        font-size: 20px;
+        text-align: center;
+        margin-top: 2em;
+    }
+    
+    #contactDetails{
+        margin-top: 1.5em;
+        line-height: 0.75;
+    }
+    
+    #contactDetails .table{
+        margin-top: 0.5em;
+        width: 30%;
+    }
+    
+    #contactDetails td.flag{
+    padding-top: 4px;
+    font-size: 14px !important;
+    }
+    
+    #contactForm h2{
+        font-size: 16px;
+        margin-top: 2em;
+        margin-bottom: 1em;
+    }  
+    
+    #contactForm button{
+        margin-bottom: 2em;
+        margin-top: 1em;
+    }
+    
+}
+
+@media screen and (min-width: 420px){
+ 
+    #header h2{
+        font-size: 24px;
+    }
+
+@media screen and (min-width: 620px){
+ 
+    #header h2{
+        font-size: 26px;
+    }
+    
+@media screen and (min-width: 720px){
+ 
+    #header h2{
+        font-size: 28px;
+    }
+    
+    #contactDetails p{
+        line-height: 1.2;
+        font-size: 16px;
+    }
+    
+    #contactForm h2{
+        font-size: 18px;
+    }
+    
+}
+    
+/* Tablets, iPads (portrait) ---------- */
+@media screen and (min-width: 768px){
+    
+    #wrapper{
+        margin-top: 3em;
+        margin-left: 2.5em;
+        margin-right: 2.5em;
+        margin-bottom: 3em;
+        border: 1px solid #d9d9d9;
+    }
+    
+    #logo{
+        padding: 15px;
+        margin-bottom: 4em;
+    }
+    
+    #header h2{
+        font-size: 30px;
+    }
+    
+    #contactForm h2{
+        font-size: 20px;
+    }
+    
+    #contactForm button{
+        margin-bottom: 2.5em;
+        margin-top: 1.5em;
+        font-size: large;
+    }
+    
+/* Tablets, iPads (portrait) ---------- */
+@media screen and (min-width: 992px){
+ 
+    #wrapper{
+        margin-top: 3.5em;
+        margin-left: 3em;
+        margin-right: 3em;
+        margin-bottom: 3.5em;
+        border: 1px solid #d9d9d9;
+    }
+    
+    #logo{
+        padding-top: 5px;
+        padding-bottom: 5px;
+        margin-bottom: 0;
+    }
+    
+    #logo{
+        border-right: 2px solid #e6e6e6;
+    }
+    
+    #header h2{
+        font-size: 28px;
+        margin-top: 1em;
+        text-align: left;
+        padding-left: 1em;
+    }
+    
+    #contactDetails{
+        margin-top: 2em;
+    }
+    
+    #contactForm h2{
+        margin-bottom: 2em;
+    }
+    
+}
+    
+@media screen and (min-width: 1220px){
+ 
+    #wrapper{
+        margin-top: 4.5em;
+        margin-left: 3.5em;
+        margin-right: 3.5em;
+        margin-bottom: 4.5em;
+        border: 1px solid #d9d9d9;
+    }
+    
+    #header h2{
+        font-size: 33px;
+    }
+    
+    body{
+        max-width: 1400px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+}
+    

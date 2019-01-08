@@ -1,0 +1,1984 @@
+
+/* Smartphones (portrait) ---------- */
+
+@media screen and (max-width: 320px){
+    
+/*carousel*/
+    
+#myCarousel .carousel-caption h1{
+    font-size: 20px;
+    line-height: 1.2em;
+}
+    
+#myCarousel .carousel-caption h2, h3{
+    font-size: 16px;
+    line-height: 1.2em;
+}
+    
+#myCarousel .carousel-caption{
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+}
+    
+/*organisers*/
+    
+.logoS{
+    width: 100%;
+    text-align: center;
+}
+    
+.logoS img{
+    margin-left: auto;
+    margin-right: auto;
+}
+    
+/*headliners*/
+    
+#headliners{
+    padding-top: 2em;
+    padding-bottom: 2em;
+}
+    
+#headlinersTitle1{
+    text-align: center;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 1.2em;
+}
+
+#headlinersTitle2{
+    text-align: center;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.2em;
+    margin-top: 1em;
+}
+    
+#headliners .table{
+    margin-top: 1em;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+    
+#headliners .table img{
+    width: 100px;
+}
+    
+#headliners h5{
+    font-size: small;
+}
+    
+/*about*/
+    
+#about{
+    text-align: center;
+}
+    
+#about h1{
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 1.2em;
+}
+    
+#aboutTitle{
+    font-size: 16px;
+    line-height: 1.2em;
+    font-weight: 500;
+    text-align: center;
+    margin-top: 1em;
+}
+    
+#aboutText{
+    font-size: 16px;
+    line-height: 1.2em;
+    margin-top: 1.5em;
+    text-align: justify;
+}
+    
+/*numbers*/
+    
+#numbers{
+    padding-bottom: 2em;
+}
+    
+#numbers .num{
+    font-size: 30px;
+    font-weight: 500;
+    margin-bottom: 0;
+}
+    
+#numbers .numbersText{
+    font-size: 16px;
+}
+    
+/*speakers*/
+    
+#speakers{
+    padding-top: 2em;
+    padding-bottom: 2em;
+}
+    
+#speakers .col-xs-12{
+    margin-bottom: 1.5em;
+}
+    
+#speakers h2{
+    font-size: 20px;
+    line-height: 1.2em;
+    margin-bottom: 1.5em;
+}
+    
+#speakers .table-responsive{
+    border: none;
+}
+
+#speakers .table-responsive th{
+    border: none;
+    text-align: center;
+    padding: 0;
+}
+    
+#speakers img{
+    max-width: 150px;
+}
+    
+#speakers ul{
+    padding-top: 0.5em;
+    padding-left: 1.5em;
+}
+    
+#speakers li{
+    font-size: 16px;
+    line-height: 1.2em;
+}
+    
+/*lean*/
+    
+#lean{
+    padding-top: 2em;
+    padding-bottom: 2em;
+}
+    
+#lean .col-xs-12{
+    margin-bottom: 1.5em;
+}
+    
+#lean h2{
+    font-size: 20px;
+    line-height: 1.2em;
+    margin-bottom: 1.5em;
+}
+    
+#lean h4{
+    font-size: 20px;
+}
+    
+#lean ul{
+    padding-top: 0.5em;
+    padding-left: 1.5em;
+}
+    
+#lean li{
+    font-size: 16px;
+    line-height: 1.2em;
+}
+    
+#lean hr{
+    margin-top: 3em;
+}
+    
+/*expositores*/
+
+#expositores{
+    padding-top: 2em;
+    padding-bottom: 2em;
+}
+    
+#expositores p{
+    font-size: 16px;
+    line-height: 1.2em;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+  
+/*   
+#expositores img{
+    max-width: 75px;
+    margin-right: 10px;
+}
+*/
+
+#expositores #derco{
+    max-width: 50px;
+}
+    
+#expositores #pelambres{
+    max-width: 120px;    
+}
+    
+/*workshops*/
+    
+#workshops{
+    padding-top: 2em;
+    padding-bottom: 2em;
+}
+    
+.works{
+    width: 100%;
+    text-align: center;
+}
+    
+.works img{
+    margin-left: auto;
+    margin-right: auto;
+}
+    
+#workshops h2{
+    font-size: 20px;
+    line-height: 1.2em;
+    margin-bottom: 1.5em;
+}
+    
+#workshops h4{
+    font-size: 20px;
+}
+    
+#workshops p{
+    font-size: 16px;
+    line-height: 1.2em;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+    
+#workshops li{
+    font-size: 16px;
+    line-height: 1.2em;
+} 
+
+#workshops ul{
+    margin-left: 1.5em;
+    margin-bottom: 1.5em;
+}
+    
+/*invitation*/
+    
+#invitation{
+    padding-top: 2em;
+    padding-bottom: 2em;
+}
+    
+#invitation h2{
+    font-size: 20px;
+    line-height: 1.2em;
+    margin-bottom: 1.5em;
+}
+    
+#invitation p{
+    font-size: 16px;
+    line-height: 1.2em;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+    
+#invitation h5{
+    font-size: 16px;
+    padding-left: 1em;
+}
+    
+#invitation li, td{
+    font-size: 16px;
+} 
+
+#invitation ul{
+    margin-left: 1.5em;
+    margin-bottom: 1.5em;
+}
+    
+#invitation li{
+    line-height: 1.2em;
+}
+     
+/*inscripciones*/
+    
+#inscripciones{
+    padding-top: 2em;
+    padding-bottom: 2em;
+}
+    
+#inscripciones h2{
+    font-size: 20px;
+    line-height: 1.2em;
+    margin-bottom: 1.5em;
+}
+    
+#inscripciones p{
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 1.5em;
+    text-align: justify;
+    font-size: 16px;
+    line-height: 1.2em;
+}
+    
+/*auspiciadores*/
+    
+#auspiciadores{
+    padding-top: 2em;
+    padding-bottom: 2em;
+}
+    
+#auspiciadores h2{
+    font-size: 20px;
+    line-height: 1.2em;
+    margin-bottom: 1.5em;
+}
+    
+#auspiciadores p{
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 1.5em;
+    text-align: justify;
+    font-size: 16px;
+    line-height: 1.2em;
+}
+    
+#ausTable td{
+font-size: 10px;
+}
+    
+/*panels*/
+    
+#panels{
+    padding-top: 3em;
+    padding-bottom: 3em;
+}
+
+#panels .panel{
+    padding-top: 3em;
+    padding-bottom: 2em;
+}
+    
+#panels h3{
+    font-size: 16px;
+}
+    
+/*map*/
+    
+#map{
+    padding-bottom: 2em;
+    margin-bottom: 2em;
+}
+
+#map .panel{
+    padding: 1em;
+}
+    
+#map #col-text{
+    margin-bottom: 0.5em;
+}
+    
+#map #col-text h4{
+    font-size: 18px;
+    line-height: 1.2em;
+}
+    
+#map #col-text h5{
+    font-size: 16px;
+    line-height: 1.2em;
+}
+    
+/*footer*/
+    
+#footer{
+    padding-left: 4em;
+    padding-right: 4em;
+    padding-top: 2em;
+    padding-bottom: 2em;
+}
+    
+#footer h4{
+    margin-top: 1.5em;
+    font-size: 16px;
+}
+
+#footer p{
+    font-size: 16px;
+}
+
+}
+
+/* Smartphones (portrait and landscape) ---------- */
+@media screen and (min-width: 321px){
+ 
+/*carousel*/
+    
+#myCarousel .carousel-caption h1{
+    font-size: 20px;
+    line-height: 1.2em;
+}
+    
+#myCarousel .carousel-caption h2, h3{
+    font-size: 16px;
+    line-height: 1.2em;
+}
+    
+#myCarousel .carousel-caption{
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+}
+    
+/*organisers*/
+
+.logoS{
+    width: 100%;
+}
+    
+.logoS img{
+    margin-left: auto;
+    margin-right: auto;
+}
+    
+/*headliners*/
+    
+#headliners{
+    padding-top: 2em;
+    padding-bottom: 2em;
+}
+    
+#headlinersTitle1{
+    text-align: center;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 1.2em;
+}
+
+#headlinersTitle2{
+    text-align: center;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.2em;
+    margin-top: 1em;
+}
+    
+#headliners .table{
+    margin-top: 1em;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+    
+#headliners .table img{
+    width: 100px;
+}
+    
+#headliners h5{
+    font-size: small;
+}
+    
+#headliners .table img{
+    width: 100px;
+}
+    
+/*about*/
+    
+#about{
+    text-align: center;
+    padding-top: 2em;
+}
+    
+#about h1{
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 1.2em;
+}
+    
+#aboutTitle{
+    font-size: 16px;
+    line-height: 1.2em;
+    font-weight: 500;
+    text-align: center;
+    margin-top: 1em;
+}
+    
+#aboutText{
+    font-size: 16px;
+    line-height: 1.2em;
+    margin-top: 1.5em;
+    text-align: justify;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+}
+   
+/*numbers*/
+    
+#numbers{
+    padding-bottom: 2em;
+}
+    
+#numbers .num{
+    font-size: 30px;
+    font-weight: 500;
+    margin-bottom: 0;
+}
+    
+#numbers .numbersText{
+    font-size: 16px;
+}
+    
+/*speakers*/
+    
+#speakers{
+    padding-top: 3em;
+    padding-bottom: 3em;
+}
+    
+#speakers .col-xs-12{
+    margin-bottom: 1.5em;
+}
+    
+#speakers h2{
+    font-size: 20px;
+    line-height: 1.2em;
+    margin-bottom: 1.5em;
+}
+    
+#speakers .table-responsive{
+    border: none;
+}
+
+#speakers .table-responsive th{
+    border: none;
+    text-align: center;
+    padding: 0;
+}
+    
+#speakers img{
+    max-width: 150px;
+}
+    
+#speakers ul{
+    padding-top: 0.5em;
+    padding-left: 1.5em;
+}
+    
+#speakers li{
+    font-size: 16px;
+    line-height: 1.2em;
+}
+    
+#speakers img{
+    max-width: 150px;
+    margin-top: 1.5em;
+}
+    
+/*lean*/
+    
+#lean{
+    padding-top: 3em;
+    padding-bottom: 2.5em;
+}
+    
+#lean .col-xs-12{
+    padding-bottom: 1em;
+    margin-bottom: 1.5em;
+}
+    
+#lean h2{
+    font-size: 20px;
+    line-height: 1.2em;
+    margin-bottom: 2em;
+}
+    
+#lean h4{
+    font-size: 20px;
+    text-align: left;
+    margin-left: 1em;
+    margin-bottom: 0;
+}
+    
+#lean ul{
+    padding-top: 0;
+    padding-left: 1.5em;
+    margin-bottom: 1em;
+}
+
+#lean li{
+    font-size: 16px;
+    line-height: 1.2em;
+}
+   
+#lean hr{
+    margin-top: 3em;
+}
+    
+/*expositores*/
+    
+#expositores{
+    padding-top: 3em;
+    padding-bottom: 3em;
+}
+    
+#expositores h2{
+    font-size: 20px;
+    line-height: 1.2em;
+    margin-bottom: 1.5em;
+}
+    
+#expositores p{
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 16px;
+    line-height: 1.2em;
+}  
+    
+/*
+    
+#expositores img{
+    max-width: 75px;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+
+*/
+
+#expositores #derco{
+    max-width: 50px;
+}
+    
+#expositores #pelambres{
+    max-width: 120px;    
+}
+    
+/*workshops*/
+    
+#workshops{
+    padding-top: 3em;
+    padding-bottom: 3em;
+}
+    
+#workshops h2{
+    font-size: 20px;
+    line-height: 1.2em;
+    margin-bottom: 1.5em;
+}
+    
+#workshops h3{
+    font-size: 20px;
+    text-align: left;
+}
+    
+#workshops h4{
+    font-size: 20px;
+    text-align: left;
+    margin-left: 0;
+}
+    
+#w{
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+    
+#workshops p{
+    font-size: 16px;
+    line-height: 1.2em;
+    text-align: justify;
+}
+    
+.works{
+    width: 100%;
+}
+    
+.works p{
+    text-align: center !important;
+}
+    
+.works img{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#workshops li{
+    font-size: 16px;
+    line-height: 1.2em;
+} 
+
+#workshops ul{
+    margin-left: 1.5em;
+    margin-bottom: 2em;
+}
+
+    
+/*invitation*/
+    
+#invitation{
+    padding-top: 3em;
+    padding-bottom: 3em;
+}
+    
+#invitation h2{
+    font-size: 20px;
+    line-height: 1.2em;
+    margin-bottom: 1.5em;
+}
+    
+#invitation p{
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 16px;
+    line-height: 1.2em;
+    }
+    
+#invitation li, td{
+    font-size: 16px;
+} 
+
+#invitation ul{
+    margin-left: 1.5em;
+    margin-bottom: 2em;
+}
+    
+#invitation li{
+    line-height: 1.2em;
+}
+
+#invitation h5{
+    font-size: 16px;
+    padding-left: 1em;
+}
+    
+/*inscripciones*/
+    
+#inscripciones{
+    padding-top: 3em;
+    padding-bottom: 3em;
+}
+    
+#inscripciones h2{
+    font-size: 20px;
+    line-height: 1.2em;
+    margin-bottom: 1.5em;
+}
+    
+#inscripciones p{
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 2em;
+    text-align: justify;
+    font-size: 16px;
+    line-height: 1.2em;
+}
+    
+#inscTable td{
+     font-size: 14px;   
+}
+    
+/*auspiciadores*/
+    
+#auspiciadores{
+    padding-top: 3em;
+    padding-bottom: 2.5em;
+}
+    
+#auspiciadores h2{
+    font-size: 20px;
+    line-height: 1.2em;
+    margin-bottom: 1.5em;
+}
+    
+#auspiciadores p{
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 2em;
+    text-align: justify;
+    font-size: 16px;
+    line-height: 1.2em;
+}
+    
+#ausTable td{
+    font-size: 12px;
+}
+    
+/*panels*/
+    
+#panels{
+    padding-top: 3em;
+    padding-bottom: 3em;
+}
+    
+#panels .panel{
+    margin-top: 2em;
+    padding-top: 2em;
+    padding-bottom: 2em;
+}
+    
+#panels h3{
+    font-size: 20px;
+}
+    
+/*map*/
+
+#map .panel{
+    padding: 1em;
+}
+    
+#map #col-text{
+    text-align: left;
+    margin-bottom: 0.5em;
+}
+    
+#map #col-text h4{
+    font-size: 18px;
+    line-height: 1.2em;
+}
+    
+#map #col-text h5{
+    font-size: 16px;
+    line-height: 1.2em;
+}
+    
+/*footer*/
+    
+#footer{
+    margin-top: 5em;
+    padding-left: 4em;
+    padding-right: 4em;
+    padding-top: 2em;
+    padding-bottom: 2em;
+}
+    
+#footer h4{
+    margin-top: 1.5em;
+    font-size: 16px;
+}
+
+#footer h5, p{
+    font-size: 16px;
+}  
+    
+#contact{
+    max-width: 50%;
+}
+    
+}
+
+/* Larger than mobile phone landscape */
+
+@media screen and (min-width: 530px){
+    
+/*carousel*/
+    
+#myCarousel .carousel-caption h1{
+    font-size: 24px;
+}
+    
+#myCarousel .carousel-caption h2, h3{
+    font-size: 20px;
+}
+    
+/*headliners*/
+    
+#headliners{
+    padding-top: 4em;
+    padding-bottom: 4em;
+}
+    
+#headlinersTitle1{
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 22px;
+}
+
+#headlinersTitle2{
+    font-size: 20px !important;
+    margin-bottom: 1em;
+}
+    
+#headliners .table{
+    width: 70% !important;
+}
+    
+#headliners h5{
+    font-size: 16px;
+}
+    
+#headliners .table img{
+    width: 120px;
+}
+
+/*about*/
+   
+#about{
+    text-align: center;
+}
+    
+#about .panel{
+    width: 90%;
+}
+    
+#about h1{
+    font-size: 22px;
+    margin-top: 1.5em;
+}
+    
+#aboutTitle{
+    font-size: 18px;
+    margin-top: 1em;
+}
+    
+#aboutText{
+    font-size: 18px;
+    word-spacing: 2;
+    line-height: 1.4em;
+    margin-top: 2em;
+    margin-bottom: 1.5em;
+}
+      
+/*numbers*/
+    
+#numbers{
+    padding-bottom: 2.5em;
+}
+    
+#numbers .num{
+    font-size: 34px;
+    font-weight: 600;
+}
+    
+#numbers .numbersText{
+    font-size: 16px;
+}
+      
+/*speakers*/
+    
+#speakers{
+    padding-top: 3em;
+    padding-bottom: 3em;
+}
+    
+#speakers .col-xs-12{
+    margin-bottom: 2em;
+    padding-left: 1.5em;
+    padding-right: 1.5em;
+}
+    
+#speakers h2{
+    font-size: 24px;
+    margin-bottom: 1.5em;
+}
+    
+#speakers img{
+    max-width: 150px;
+    margin-top: 1.5em;
+}
+    
+#speakers h5{
+    font-size: 16px;
+}
+    
+#speakers ul{
+    padding-top: 1em;
+}
+    
+#speakers li{
+    font-size: 18px;
+    word-spacing: 2;
+    line-height: 1.4em;
+}
+   
+/*lean*/
+   
+#lean .col-xs-12{
+    margin-bottom: 2em;
+}
+    
+#lean h2{
+    font-size: 24px;
+}
+    
+#lean h4{
+    font-size: 22px;
+}
+    
+#lean li{
+    font-size: 18px;
+    word-spacing: 2;
+    line-height: 1.4em;
+}
+    
+/*expositores*/
+    
+#expositores h2{
+    font-size: 24px;   
+}
+    
+#expositores p{
+    font-size: 18px;
+    word-spacing: 2;
+    line-height: 1.4em;
+}
+    
+/*workshops*/
+ 
+#workshops h2{
+    font-size: 24px;
+}
+    
+#workshops h3{
+    font-size: 24px;
+}
+    
+#workshops h4{
+    margin-top: 0.5em;
+    font-size: 22px;
+} 
+    
+#workshops p{
+    font-size: 18px;
+    word-spacing: 2;
+    line-height: 1.4em;
+}
+    
+#workshops li{
+    font-size: 18px;
+    word-spacing: 2;
+    line-height: 1.4em;
+}  
+
+/*invitation*/
+ 
+#invitation h2{
+    font-size: 24px;
+}
+    
+#invitation h5{
+    font-size: 20px;
+}
+    
+#invitation h4{
+    margin-top: 0.5em;
+}
+    
+#invitation td{
+    font-size: 18px;
+} 
+    
+#invitation p{
+    font-size: 18px;
+    word-spacing: 2;
+    line-height: 1.4em;
+}
+    
+#invitation li{
+    font-size: 18px;
+    word-spacing: 2;
+    line-height: 1.4em;
+}  
+    
+/*inscripciones*/
+    
+#inscripciones h2{
+    font-size: 24px;
+}
+    
+#inscripciones p{
+    font-size: 18px;
+    word-spacing: 2;
+    line-height: 1.4em;
+}
+
+/*auspiciadores*/
+    
+#auspiciadores h2{
+    font-size: 24px;
+}
+    
+#auspiciadores p{
+    font-size: 18px;
+    word-spacing: 2;
+    line-height: 1.4em;
+}
+  
+/*panels*/
+
+#panels .panel{
+    padding-top: 3em;
+}
+    
+#panels .fa{
+    font-size: 48px !important;
+}
+    
+#panels h3{
+    font-size: 22px;
+}
+ 
+/*map*/
+    
+#map{
+    padding-bottom: 2em;
+    margin-bottom: 2em;
+}
+
+#map .panel{
+    padding: 1.5em;
+}
+    
+#map #col-text h4{
+    font-size: 22px;
+    line-height: 1.4em;
+}
+    
+#map #col-text h5{
+    line-height: 1.4em;
+}
+    
+/*footer*/ 
+    
+#footer h4{
+    font-size: 18px;
+}
+    
+}
+
+/* Tablets, iPads (portrait and landscape) ---------- */
+@media screen and (min-width: 768px) and (max-width: 1024px){ 
+    
+#contact td .material-icons{
+    font-size: 14px;
+} 
+}
+
+/* Tablets, iPads (portrait) ---------- */
+@media screen and (min-width: 768px){
+    
+#contact .material-icons{
+    margin-right: 0.25em;
+}
+    
+/*carousel*/
+    
+#myCarousel .carousel-caption h1{
+    font-size: 30px;
+}
+    
+#myCarousel .carousel-caption h2, h3{
+    font-size: 24px;
+}
+    
+/*headliners*/
+    
+#headliners{
+    padding-top: 8em;
+    padding-bottom: 7em;
+}
+    
+#headlinersTitle1{
+    margin-bottom: 2em;
+    font-size: 24px;
+}
+    
+#headlinersTitle2{
+    font-size: 24px;
+    font-weight: 600;
+    margin-top: 1.5em;
+    margin-left: 1.5em;
+}
+    
+#headliners h5{
+    font-size: 14px;
+}
+    
+#headliners .table img{
+    width: 100px;
+}
+
+/*about*/
+    
+#about h1{
+    font-size: 28px;
+    margin-top: 2em;
+}
+    
+#aboutTitle{
+    margin-top: 2em;
+    text-align: right;
+}
+    
+#aboutText{
+    font-size: 20px;
+} 
+
+/*numbers*/
+    
+#numbers{
+    padding-top: 0.5em;
+    padding-bottom: 3em;
+}
+    
+#numbers .num{
+    font-size: 28px;
+    margin-bottom: 0.5em;
+}
+    
+/*speakers*/
+    
+#speakers ul{
+    padding-top: 0.5em;
+}  
+    
+/*lean*/
+    
+#lean hr{
+    margin-top: 4em;
+}
+    
+/*expositores*/
+
+#expositores p{
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+} 
+    
+/*workshops*/
+    
+#w{
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+    
+.works p{
+    font-size: 14px !important;
+}   
+      
+/*invitation*/
+
+#invitation p{
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+}   
+    
+#invitation  #fechas{
+    padding-left: 0;
+}
+    
+/*inscripciones*/
+    
+#inscripciones p{
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+}
+    
+#inscTable{
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+}
+    
+#inscTable td, th{
+    font-size: 16px;
+}
+    
+#inscTable .first{
+    text-align: left;
+    padding-left: 1em;
+}
+    
+#cat{
+    text-align: left !important; 
+    padding-left: 1em;
+}
+    
+#inscripciones{
+    padding-bottom: 5em;
+}
+    
+/*auspiciadores*/
+
+#auspiciadores p{
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+}
+    
+#ausTable{
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+}
+    
+#ausTable .first{
+    padding-left: 1em;
+}
+    
+#ausTable td, th{
+    font-size: 16px;
+}  
+    
+#auspiciadores{
+    padding-bottom: 5em;
+}
+    
+.tableInfo p{
+    font-size: 14px !important;      
+}
+    
+.tableInfo{
+    margin-bottom: 0px;
+}
+    
+/*panels*/
+    
+#panels{
+    padding-top: 4em;
+    padding-bottom: 0;
+}
+    
+/*map*/
+    
+#map .google-maps{
+    min-height: 320px;
+}
+    
+#map .fa{
+    font-size: 24px !important;
+}
+    
+/*footer*/
+    
+#footer{
+    margin-top: 0;
+    padding-left: 4em;
+    padding-right: 4em; 
+}
+    
+#footer h4{
+    font-size: 18px;
+}
+
+#footer li, p{
+    font-size: 16px;
+}
+    
+.contact{
+    font-size: 14px;
+}
+    
+}
+    
+/* Tablets, iPads (landscape) ---------- */
+@media screen and (min-width: 1024px){
+
+/*carousel*/
+    
+#myCarousel .carousel-caption h1{
+    font-size: 34px;
+}
+    
+#myCarousel .carousel-caption h2, h3{
+    font-size: 28px;
+    line-height: 1.6em;
+}
+    
+#myCarousel .carousel-caption{
+    padding-left: 1em;
+    padding-right: 1em;
+}
+    
+/*organisers*/
+
+.logoS{
+    float: left;
+    width: calc((100%/5))
+}
+    
+/*headliners*/
+    
+#headliners{
+    padding-top: 8em;
+    padding-bottom: 7em;
+}   
+    
+#headlinersTitle1{
+    font-size: 28px;
+    line-height: 1.6;
+    margin-top: 0;
+}
+
+#headlinersTitle2{
+    margin-left: 0;
+    margin-top: 0;
+    line-height: 1.6;
+}
+    
+#headliners .table{
+    margin-right: 1em;
+    margin-top: 0;
+}
+    
+#headliners th{
+    padding-right: 1em !important;
+}
+    
+#headliners img{
+    min-width: 85px;
+}
+    
+#headliners h5{
+    font-size: 14px;
+}
+    
+/*about*/
+    
+#about{
+    text-align: center;
+}
+    
+#about .panel{
+    width: 90%;
+}
+    
+#about h1{
+    font-size: 32px;
+    margin-bottom: 1em;
+}
+    
+#aboutTitle{
+    font-size: 18px;  
+    line-height: 1.6;
+}
+    
+#aboutText{
+    font-size: 20px;
+    line-height: 1.6;
+    margin-top: 2em;
+    margin-bottom: 2em;
+    width: 90%;
+}
+    
+/*numbers*/
+    
+#numbers{
+    padding-top: 0.75em;
+    padding-bottom: 4em;
+}
+    
+#numbers .num{
+    font-size: 38px;
+    margin-bottom: 0em;
+}
+    
+#numbers .numbersText{
+    font-size: 18px;
+}
+    
+/*speakers*/
+    
+#speakers{
+    padding-top: 3.5em;
+    padding-bottom: 3.5em;
+}
+    
+#speakers h2{
+    font-size: 28px;
+}
+    
+#speakers img{
+    max-width: 150px;
+}
+    
+#speakers h5{
+    font-size: 16px;
+}
+    
+#speakers li{
+    font-size: 18px;
+}
+    
+/*lean*/
+    
+#lean{
+    padding-top: 3.5em;
+}
+    
+#lean h2{
+    font-size: 28px;
+}
+       
+#lean h4{
+    font-size: 26px;
+}
+    
+/*expositores*/
+
+#expositores{
+    padding-top: 3.5em;
+    padding-bottom: 3.5em;
+}
+    
+#expositores h2{
+    font-size: 28px;
+    margin-bottom: 2em;
+}
+    
+/*
+    
+#expositores img{
+    max-width: 150px;
+    margin-right: 30px;
+}
+
+#expositores #derco{
+    max-width: 110px;
+}
+    
+#expositores #pelambres{
+    max-width: 200px;
+}
+    
+*/
+    
+/*workshops*/
+ 
+#workshops{
+    padding-top: 3.5em;
+    padding-bottom: 3.5em;
+}
+    
+#workshops h2{
+    font-size: 28px;
+    margin-bottom: 2em;
+}
+    
+#workshops h4{
+    font-size: 26px;
+} 
+    
+.works{
+    float: left;
+    width: calc((100%/5))
+}
+   
+/*invitation*/
+    
+#invitation{
+    padding-top: 3.5em;
+    padding-bottom: 3.5em;
+}
+    
+#invitation h2{
+    font-size: 28px;
+    margin-bottom: 2em;
+}
+    
+#invitation h5{
+    font-size: 20px;
+} 
+    
+#dates{
+    padding-right: 3em;
+}
+    
+/*inscripciones*/
+    
+#inscripciones{
+    padding-top: 3.5em;
+    padding-bottom: 6em;
+}
+    
+#inscripciones h2{
+    font-size: 28px;
+    margin-bottom: 2em;
+}
+    
+#inscripciones .headLarge th{
+    font-size: 20px;    
+}
+    
+.currency{
+    font-size: 14px;    
+}
+    
+/*auspiciadores*/
+    
+#auspiciadores{
+    padding-top: 3.5em;
+    padding-bottom: 6em;
+}
+    
+#auspiciadores h2{
+    font-size: 28px;
+    margin-bottom: 2em;
+}
+    
+#ausTable .first{
+    font-size: 16px;
+}
+    
+#auspiciadores .headLarge th{
+    font-size: 20px;    
+}
+    
+/*panels*/    
+    
+/*map*/
+    
+#map #col-text h4{
+    font-size: 24px;
+}
+    
+#map #col-text h5{
+    font-size: 18px; 
+}
+    
+#map .fa{
+    font-size: 36px !important;
+}
+    
+/*footer*/
+    
+#footer{
+    padding-bottom: 4em;;
+}
+    
+#footer h4{
+    font-size: 22px;
+    margin-bottom: 1em;
+}
+    
+.contact{
+    font-size: 16px;
+}
+    
+    #pad{
+        padding-bottom: 2px !important;
+    }
+    
+
+/* Desktops and laptops ---------- */
+@media screen and (min-width: 1360px){
+
+/*navbar*/
+    
+#menu li a{
+    font-size: 11px;
+}
+    
+/*carousel*/    
+    
+#myCarousel .carousel-caption h1{
+    font-size: 38px;
+}
+    
+#myCarousel .carousel-caption h2{
+    font-size: 30px;
+    line-height: 1.6em;
+}
+    
+/*headliners*/
+    
+#headliners{
+    padding-top: 10em;
+    padding-bottom: 8em;
+}
+    
+#headlinersTitle1{        
+    font-size: 32px;
+    line-height: 1.8;
+    word-spacing: 2;
+    margin-top: 0;
+}
+
+#headlinersTitle2{
+    font-size: 26px !important;
+    margin-top: 0;
+}
+    
+#headliners .table{
+    margin-top: 0;
+    margin-left: 0;
+}
+    
+#headliners img{
+    min-width: 100px;
+}
+    
+#headliners h5{
+    font-size: 16px;
+}
+    
+/*about*/
+    
+#about{
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+}
+    
+#about .panel{
+    width: 90%;
+    margin-bottom: 0;
+}
+    
+#about h1{
+    font-size: 34px;
+    margin-bottom: 2em;
+}
+    
+#aboutTitle{
+    width: 80%;
+    float: right;
+    margin-top: 0;
+    font-size: 20px;
+}
+    
+#aboutText{
+    margin-top: 0;
+    font-size: 20px;
+    margin-bottom: 2.5em;
+    width: 80%;
+}
+    
+/*numbers*/
+    
+#numbers{
+    padding-bottom: 4em;
+}
+    
+#numbers .num{
+    font-size: 40px;
+    margin-bottom: 0em;
+}
+    
+#numbers .numbersText{
+    font-size: 18px;
+}
+    
+/*speakers*/
+    
+#speakers{
+    padding-top: 4em;
+    padding-bottom: 4em;
+}
+    
+#speakers img{
+    max-width: 150px;
+}
+    
+#speakers h5{
+    font-size: 16px;
+}
+    
+#speakers ul{
+    padding-top: 1em;
+}
+    
+/*lean*/
+    
+#lean{
+    padding-top: 4em;
+    padding-bottom: 3em;
+}
+    
+#lean li{
+    line-height: 1.6;
+}
+    
+/*expositores*/
+    
+#expositores{
+    padding-top: 4em;
+    padding-bottom: 4em;
+}
+    
+#expositores h2{
+    font-size: 28px;
+    margin-bottom: 2em;
+}
+    
+#expositores  p{
+    width: 100%;
+    line-height: 1.6;
+}
+    
+/*workshops*/
+    
+#workshops{
+    padding-top: 4em;
+    padding-bottom: 4em;
+}
+    
+#workshops h2{
+    font-size: 28px;
+    margin-bottom: 2em;
+}
+    
+#workshops  p{
+    width: 100%;
+    line-height: 1.6;
+}    
+    
+/*invitation*/
+    
+#invitation{
+    padding-top: 4em;
+    padding-bottom: 4em;
+}
+    
+#invitation h2{
+    font-size: 28px;
+    margin-bottom: 2em;
+}
+    
+#invitation  p{
+    width: 100%;
+    line-height: 1.6;
+}
+    
+/*inscripciones*/
+    
+#inscripciones{
+    padding-top: 4em;
+    padding-bottom: 6em;
+}
+    
+#inscripciones p{
+    width: 100%;
+    line-height: 1.6;
+}
+    
+#inscTable{
+    width: 100%;
+}
+    
+#inscTable .headLarge #cubre{
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+    
+#inscTable td, th{
+    font-size: 18px;
+}
+    
+#inscripciones .headLarge th{
+    font-size: 22px; 
+    font-weight: 400;
+}
+    
+.currency{
+    font-size: 16px; 
+    font-weight: 400;
+}
+    
+/*auspiciadores*/
+    
+#auspiciadores{
+    padding-top: 4em;
+    padding-bottom: 6em;
+}
+    
+#auspiciadores p{
+    width: 100%;
+    line-height: 1.6;
+}
+    
+#ausTable{
+    width: 100%;
+}
+    
+#ausTable #mas{
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+    
+    
+#ausTable td, th{
+    font-size: 18px;
+} 
+    
+#auspiciadores .headLarge th{
+    font-size: 22px; 
+    font-weight: 400;
+}
+    
+/*panels*/
+    
+#panels{
+    padding-top: 4em;
+    padding-bottom: 4em;
+}
+    
+#panels .fa{
+    font-size: 48px !important;
+}
+    
+#panels h3{
+    font-size: 24px;
+}
+    
+/*map*/
+
+#map .panel{
+    padding: 1.5em;
+}
+    
+#map .fa{
+    font-size: 26px !important;
+}
+
+#map #col-text h4{
+    font-size: 22px;
+}
+    
+#map #col-text h5{
+    font-size: 18px;
+    line-height: 1.6em;
+}
+    
+/*footer*/
+    
+#footer{
+    padding-left: 7em;
+}
+    
+#footer h4{
+    font-size: 22px;
+}
+
+#footer p{
+    font-size: 18px;
+    line-height: 1.6;
+}
+    
+#footer li{
+    font-size: 18px;
+}
+    
+}
+
+/* Large screens ---------- */
+@media screen and (min-width: 1600px){
+
+body{
+    max-width: 1602px;
+    margin-left: auto;
+    margin-right: auto;
+}
+    
+}
